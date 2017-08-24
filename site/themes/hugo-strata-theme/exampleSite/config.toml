@@ -46,8 +46,10 @@ paginate = 10
 
 	[params.about]
 		hide  = false
-		title = "lThat is about pageo magna sed accumsan arcu neque."
-		content = "Accumsan orci faucibus id eu lorem semper. Eu ac iaculis ac nunc nisi lorem vulputate lorem neque cubilia ac in adipiscing in curae lobortis tortor primis integer massa adipiscing id nisi accumsan pellentesque commodo blandit enim arcu non at amet id arcu magna. Accumsan orci faucibus id eu lorem semper nunc nisi lorem vulputate lorem neque cubilia."
+		title = "M.Radwan peronsal webapge"
+		content = "Just some simple page for organizing my thoughts, posting some informations, some codes & spme personal experience
+		My name is Mohamad Atef Radwan ... TBC
+		"
 
 
 	[params.portfolio]
