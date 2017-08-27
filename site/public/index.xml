@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Strata</title>
+    <link>/</link>
+    <description>Recent content on Strata</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 27 Aug 2017 15:23:30 +0300</lastBuildDate>
+    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>test</title>
+      <link>/test/</link>
+      <pubDate>Sun, 27 Aug 2017 15:23:30 +0300</pubDate>
+      
+      <guid>/test/</guid>
+      <description>&lt;p&gt;Hi that is test&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;echo &amp;quot;Linux&amp;quot;
+&lt;/code&gt;&lt;/pre&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>First</title>
+      <link>/post/first/</link>
+      <pubDate>Thu, 06 Jul 2017 01:25:36 +0300</pubDate>
+      
+      <guid>/post/first/</guid>
+      <description>&lt;p&gt;Linux us&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Acidbase</title>
+      <link>/pages/acidbase/</link>
+      <pubDate>Thu, 06 Jul 2017 01:07:02 +0300</pubDate>
+      
+      <guid>/pages/acidbase/</guid>
+      <description>&lt;p&gt;Test Acid Base &amp;hellip;And otheres&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
